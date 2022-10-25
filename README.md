@@ -9,10 +9,10 @@ __Now, I'm__:
 - Learning to build more purposeful products
 - Looking for any remote opportunities to achieve professional growth
 
-__I did__:
-- build and design [qubika.co.id](https://qubika.co.id) with React (Next.js) + TypeScript + Sanity
-- Build and design [editpasfoto.com](https://github.com/abielzulio/editpasfoto) with React (Next.js) + TypeScript
-- Build and design [maulomba.com](https://maulomba.com) with Svelte (SvelteKit) + JavaScript + Supabase
+__I designed and built__:
+- [qubika.co.id](https://qubika.co.id) with React (Next.js) + TypeScript + Sanity
+- [editpasfoto.com](https://github.com/abielzulio/editpasfoto) with React (Next.js) + TypeScript
+- [maulomba.com](https://maulomba.com) with Svelte (SvelteKit) + JavaScript + Supabase
 
 __My go-to stack is__:
 - Front-end: *React* (Next.js/Solid/Astro), *Svelte* (SvelteKit)
