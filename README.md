@@ -19,5 +19,6 @@ __My go-to stack is__:
 - Back-end: *Node.js* (Express.js)
 - CMS: Sanity
 - Database: Supabase, Firebase
+- Styling: TailwindCSS, Chakra UI, Mantine UI, Headless UI, Framer Motion
 
 __I code in__ *TypeScript, JavaScript, Python, C++, C*
