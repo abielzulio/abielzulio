@@ -8,7 +8,7 @@ __Now, I'm__:
 - Building more purposeful products
 - Looking for any remote opportunities (full-time, part-time, internship, contract)
 
-__I made open-source projects__:
+__I made__:
 - [supabase-desktop](https://github.com/abielzulio/supabase-desktop) (Rust)
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) (TypeScript)
 - [lexica-raycast](https://github.com/abielzulio/lexica-raycast) (TypeScript)
@@ -16,7 +16,7 @@ __I made open-source projects__:
 - [editpasfoto.com](https://github.com/abielzulio/editpasfoto) [[website](https://editpasfoto.com)] with React (Next.js) + TypeScript
 - [maulomba.com](https://github.com/abielzulio/maulomba) [[website](https://maulomba.com)] with React (Next.js) + TypeScript + Supabase
 
-__My go-to stack is__:
+__I code with__:
 - Languange: TypeScript, JavaScript, Python, Rust, C++, C
 - Frontend: React, Svelte, Vue, Solid, React Native
 - Backend: Express
