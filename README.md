@@ -17,7 +17,7 @@ __I made__:
 - [maulomba.com](https://github.com/abielzulio/maulomba) [[website](https://maulomba.com)] with React (Next.js) + TypeScript + Supabase
 
 __I code with__:
-- Languange: TypeScript, JavaScript, Python, Rust, C++, C
+- Language: TypeScript, JavaScript, Python, Rust, C++, C
 - Frontend: React, Svelte, Vue, Solid, React Native
 - Backend: Express
 - Fullstack: Next.js (+ tRPC), SvelteKit, Astro, Nuxt.js
