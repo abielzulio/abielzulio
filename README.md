@@ -6,8 +6,7 @@ __Now, I'm__:
 - Living in Yogyakarta, Indonesia (GMT+7)
 - Pursuing a final year in a physics engineering major
 - Building more purposeful products
-- Casually learning Rust and Swift
-- Looking for any remote opportunities (full-time, part-time, intern)
+- Looking for any remote opportunities (full-time, part-time, internship, contract)
 
 __I made open-source projects__:
 - [supabase-desktop](https://github.com/abielzulio/supabase-desktop) (Rust)
@@ -18,10 +17,10 @@ __I made open-source projects__:
 - [maulomba.com](https://github.com/abielzulio/maulomba) [[website](https://maulomba.com)] with React (Next.js) + TypeScript + Supabase
 
 __My go-to stack is__:
-- Front-end: *React* (Next.js/Solid/Astro), *Svelte* (SvelteKit), *Vue* (Nuxt.js)
-- Back-end: *Node.js* (Express.js)
+- Languange: TypeScript, JavaScript, Python, Rust, C++, C
+- Frontend: React, Svelte, Vue, Solid, React Native
+- Backend: Express
+- Fullstack: Next.js (+ tRPC), SvelteKit, Astro, Nuxt.js
 - CMS: Sanity
 - Database: Supabase, Firebase, MySQL, PostgreSQL, MongoDB
 - Styling: TailwindCSS, Chakra UI, Mantine UI, Headless UI, Antd Design, Framer Motion
-
-__I code in__ *TypeScript, JavaScript, Python, C++, C*
