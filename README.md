@@ -5,7 +5,7 @@ __[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who lov
 __Now, I'm__:
 - Living in Yogyakarta, Indonesia (GMT+7)
 - Pursuing a final year in a physics engineering major
-- Building more purposeful products
+- Building a reminder for your internet links ([remindthing.com](https://remindthing.com))
 - Looking for any remote opportunities (full-time, part-time, internship, contract)
 
 __I made__:
