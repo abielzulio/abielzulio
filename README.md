@@ -6,7 +6,6 @@ __Now, I'm__:
 - Living in Yogyakarta, Indonesia (GMT+7)
 - Pursuing a final year in a physics engineering major
 - Building a reminder for your internet links ([remindthing.com](https://remindthing.com))
-- Looking for any remote opportunities (full-time, part-time, internship, contract)
 
 __I made__:
 - [supabase-desktop](https://github.com/abielzulio/supabase-desktop) (Rust)
