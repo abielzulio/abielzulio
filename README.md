@@ -25,6 +25,6 @@ __I code with__:
 - Database: Supabase, Firebase, MySQL, PostgreSQL, MongoDB
 - Styling: TailwindCSS, Chakra UI, Mantine UI, Headless UI, Antd Design, Framer Motion
 
-
+![](https://komarev.com/ghpvc/?username=abielzulio&color=lightgrey&style=plastic)
 
 [![Support my work](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/abielzulio)
