@@ -1,12 +1,11 @@
 ## Aloha 👋
 
-__[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who loves crafting front-end architecture creating *meaningful digital products* that empower people. 
+__[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who loves crafting front-end architecture, creating *meaningful digital products* that empower people. 
 
 __Now, I'm__:
 - Living in Indonesia (GMT+7)
-- Pursuing a final year in a physics engineering major
+- A physics engineering major fresh graduate
 - Building a reminder for your internet links ([remindthing.com](https://remindthing.com))
-- Looking for any interesting remote opportunities (full-time, part-time, contract)
 
 __I made__:
 - [supabase-desktop](https://github.com/abielzulio/supabase-desktop) (Rust)
