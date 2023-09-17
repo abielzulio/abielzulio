@@ -5,7 +5,6 @@ __[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who lov
 __Now, I'm__:
 - Living in Indonesia (GMT+7)
 - A physics engineering major fresh graduate
-- Building a reminder for your internet links ([remindthing.com](https://remindthing.com))
 
 __I made__:
 - [supabase-desktop](https://github.com/abielzulio/supabase-desktop) (Rust)
