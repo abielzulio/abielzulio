@@ -1,6 +1,6 @@
 ## Aloha 👋
 
-__[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who loves crafting front-end architecture, creating *meaningful digital products* that empower people. 
+__[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who loves crafting meaningful and delightful digital products that empower people. 
 
 __Now, I'm__:
 - Living in Indonesia (GMT+7)
