@@ -2,10 +2,6 @@
 
 __[Abiel Zulio M](https://zulio.me)__ is a self-taught software engineer who loves crafting meaningful and delightful digital products that empower people. 
 
-__Now, I'm__:
-- Living in Indonesia (GMT+7)
-- A physics engineering major fresh graduate
-
 __I made__:
 - [supabase-desktop](https://github.com/abielzulio/supabase-desktop) (Rust)
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) (TypeScript)
